@@ -1,7 +1,4 @@
 
-Source Code of Tic Tac Toe
-In a new file editor window, type in the following source code and save it as tictactoe.py. Then run the game by pressing F5.
-tictactoe.py
   1. # Tic Tac Toe
   2. 
   3. import random
