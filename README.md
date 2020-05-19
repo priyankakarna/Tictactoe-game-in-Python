@@ -184,8 +184,8 @@
 183.                 else:
 184.                     turn = 'player'
 185. 
-.         if not playAgain():
-             break
+186.         if not playAgain():
+                break
  
                               
        
